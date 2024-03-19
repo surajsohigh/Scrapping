@@ -1,0 +1,312 @@
+python dictionary
+3. https://www.geeksforgeeks.org/python-dictionary/
+
+python dictionary methods
+6. https://www.geeksforgeeks.org/python-dictionary-methods/
+12. https://www.geeksforgeeks.org/python-dictionary/
+
+python exercises
+7. https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
+
+Python Flask
+6. https://www.geeksforgeeks.org/flask-tutorial/
+
+Python From Scratch
+5. https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/
+
+Python itertools
+2. https://www.geeksforgeeks.org/python-itertools/
+8. https://www.geeksforgeeks.org/itertools-in-python3/
+
+Python kivy
+2. https://www.geeksforgeeks.org/kivy-tutorial/
+10. https://www.geeksforgeeks.org/introduction-to-kivy/
+
+Python list
+2. https://www.geeksforgeeks.org/python-lists/
+14. https://www.geeksforgeeks.org/list-methods-python/
+
+python list method
+2. https://www.geeksforgeeks.org/list-methods-python/
+
+python matplotlib
+8. https://www.geeksforgeeks.org/python-introduction-matplotlib/
+11. https://www.geeksforgeeks.org/matplotlib-tutorial/
+
+python modules
+9. https://www.geeksforgeeks.org/python-modules/
+
+Python mongoDB
+7. https://www.geeksforgeeks.org/mongodb-and-python/
+13. https://www.geeksforgeeks.org/python-mongodb-tutorial/
+
+python multiple choice questions
+7. https://www.geeksforgeeks.org/python-multiple-choice-questions/
+
+Python mySQL
+3. https://www.geeksforgeeks.org/python-mysql/
+
+Python numpy
+4. https://www.geeksforgeeks.org/introduction-to-numpy/
+6. https://www.geeksforgeeks.org/python-numpy/
+
+Python NumPy Cheat Sheet
+4. https://www.geeksforgeeks.org/numpy-cheat-sheet/
+5. https://www.geeksforgeeks.org/numpy-cheat-sheet/#1-creating-arrays-commands
+6. https://www.geeksforgeeks.org/numpy-cheat-sheet/#4-saving-and-loading-file
+7. https://www.geeksforgeeks.org/numpy-cheat-sheet/#6-numpy-array-manipulation
+
+Python OpenCV
+6. https://www.geeksforgeeks.org/opencv-python-tutorial/
+13. https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-windows/
+
+python os module
+10. https://www.geeksforgeeks.org/os-module-python-examples/
+
+python os path module
+2. https://www.geeksforgeeks.org/os-path-module-python/
+8. https://www.geeksforgeeks.org/python-os-path-join-method/
+
+Python pandas function
+2. https://www.geeksforgeeks.org/pandas-functions-in-python/
+
+Python pandas
+11. https://www.geeksforgeeks.org/introduction-to-pandas-in-python/
+
+Python Pandas Interview Questions
+5. https://www.geeksforgeeks.org/pandas-interview-questions/
+
+Python pillow
+8. https://www.geeksforgeeks.org/python-pillow-a-fork-of-pil/
+12. https://www.geeksforgeeks.org/python-pillow-tutorial/
+
+Python Plotly
+6. https://www.geeksforgeeks.org/python-plotly-tutorial/
+11. https://www.geeksforgeeks.org/getting-started-with-plotly-python/
+
+python programming examples
+5. https://www.geeksforgeeks.org/python-programming-examples/
+6. https://www.geeksforgeeks.org/python-program-for-how-to-check-if-a-given-number-is-fibonacci-number/
+7. https://www.geeksforgeeks.org/python-permutation-given-string-using-inbuilt-function/
+8. https://www.geeksforgeeks.org/python-program-to-check-whether-a-number-is-prime-or-not/
+9. https://www.geeksforgeeks.org/python-program-for-nth-multiple-of-a-number-in-fibonacci-series/
+
+Python projects
+1. https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
+
+Python pygal
+3. https://www.geeksforgeeks.org/pygal/
+4. https://www.geeksforgeeks.org/bar-chart-in-pygal/
+
+Python PyGame
+6. https://www.geeksforgeeks.org/pygame-tutorial/
+
+Python random
+7. https://www.geeksforgeeks.org/python-random-module/
+8. https://www.geeksforgeeks.org/python-random-function/
+
+Python Regex Cheat Sheet
+2. https://www.geeksforgeeks.org/python-regex-cheat-sheet/
+
+Python requests
+15. https://www.geeksforgeeks.org/python-requests-tutorial/
+
+Python Scrapy
+6. https://www.geeksforgeeks.org/implementing-web-scraping-python-scrapy/
+
+Python Seaborn
+3. https://www.geeksforgeeks.org/introduction-to-seaborn-python/
+9. https://www.geeksforgeeks.org/python-seaborn-tutorial/
+
+Python selenium
+6. https://www.geeksforgeeks.org/selenium-python-tutorial/
+12. https://www.geeksforgeeks.org/selenium-python-tricks/
+
+python set
+2. https://www.geeksforgeeks.org/sets-in-python/
+9. https://www.geeksforgeeks.org/python-set-method/
+
+python set
+2. https://www.geeksforgeeks.org/sets-in-python/
+9. https://www.geeksforgeeks.org/python-set-method/
+
+python set
+2. https://www.geeksforgeeks.org/sets-in-python/
+9. https://www.geeksforgeeks.org/python-set-method/
+
+Python SQLite
+5. https://www.geeksforgeeks.org/python-sqlite/
+12. https://www.geeksforgeeks.org/introduction-to-sqlite-in-python/
+
+Python string
+5. https://www.geeksforgeeks.org/python-string/
+
+python string
+5. https://www.geeksforgeeks.org/python-string/
+
+python time modules
+2. https://www.geeksforgeeks.org/python-time-module/
+
+Python tkinter
+5. https://www.geeksforgeeks.org/python-gui-tkinter/
+13. https://www.geeksforgeeks.org/introduction-to-tkinter/
+
+Python tuple
+2. https://www.geeksforgeeks.org/tuples-in-python/
+10. https://www.geeksforgeeks.org/python-tuples/
+
+python tuple
+2. https://www.geeksforgeeks.org/tuples-in-python/
+10. https://www.geeksforgeeks.org/python-tuples/
+
+Python Tutorial
+
+Python Tutorial
+
+Python Tutorial
+
+python web scraping
+4. https://www.geeksforgeeks.org/python-web-scraping-tutorial/
+
+Tkinter CheatSheet
+1. https://www.geeksforgeeks.org/tkinter-cheat-sheet/
+
+Python Interview Questions
+3. https://www.geeksforgeeks.org/python-interview-questions/
+
+Data Visualization with Python
+3. https://www.geeksforgeeks.org/data-visualization-with-python/
+9. https://www.geeksforgeeks.org/python-data-visualization-tutorial/
+
+Machine Learning projects
+2. https://www.geeksforgeeks.org/machine-learning-projects/
+
+Machine Learning Interview Question
+5. https://www.geeksforgeeks.org/machine-learning-interview-questions/
+
+Machine Learning Mathmatics
+2. https://www.geeksforgeeks.org/machine-learning-mathematics/
+
+machine-learning-with-python
+4. https://www.geeksforgeeks.org/machine-learning-with-python/
+
+Machine Learning Algorithms
+3. https://www.geeksforgeeks.org/machine-learning-algorithms/
+
+Machine Learning
+8. https://www.geeksforgeeks.org/machine-learning/
+9. https://www.geeksforgeeks.org/ml-machine-learning/
+10. https://www.geeksforgeeks.org/machine-learning-mathematics/
+11. https://www.geeksforgeeks.org/machine-learning-projects/
+12. https://www.geeksforgeeks.org/machine-learning-versus-artificial-intelligence/
+
+nlp interview questions
+7. https://www.geeksforgeeks.org/nlp-interview-questions/
+
+python bokeh tutorial
+2. https://www.geeksforgeeks.org/python-bokeh-tutorial-interactive-data-visualization-with-bokeh/
+12. https://www.geeksforgeeks.org/python-data-visualization-using-bokeh/
+
+opencv functions
+3. https://www.geeksforgeeks.org/essential-opencv-functions-to-get-started-into-computer-vision/
+9. https://www.geeksforgeeks.org/opencv-overview/
+
+computer vision
+10. https://www.geeksforgeeks.org/computer-vision/
+11. https://www.geeksforgeeks.org/applications-of-computer-vision/
+12. https://www.geeksforgeeks.org/a-quick-overview-to-computer-vision/
+13. https://www.geeksforgeeks.org/computer-vision-introduction/
+
+data analysis with python
+6. https://www.geeksforgeeks.org/data-analysis-with-python/
+
+data science tutorial
+6. https://www.geeksforgeeks.org/data-science-tutorial/
+
+sql for data science
+2. https://www.geeksforgeeks.org/sql-for-data-science/
+
+data science for beginners
+1. https://www.geeksforgeeks.org/data-science-for-beginners/
+13. https://www.geeksforgeeks.org/data-science-tutorial/
+
+data visualization with r and ggplot2
+1. https://www.geeksforgeeks.org/data-visualization-with-r-and-ggplot2/
+
+deep learning tutorial
+1. https://www.geeksforgeeks.org/deep-learning-tutorial/
+
+deep learning interview questions
+6. https://www.geeksforgeeks.org/deep-learning-interview-questions/
+14. https://www.geeksforgeeks.org/machine-learning-interview-questions/
+
+deep learning interview questions
+6. https://www.geeksforgeeks.org/deep-learning-interview-questions/
+14. https://www.geeksforgeeks.org/machine-learning-interview-questions/
+
+django tutorial
+8. https://www.geeksforgeeks.org/django-tutorial/
+
+django basics
+2. https://www.geeksforgeeks.org/django-basics/
+12. https://www.geeksforgeeks.org/django-tutorial/
+
+django forms
+6. https://www.geeksforgeeks.org/django-forms/
+14. https://www.geeksforgeeks.org/django-form-data-types-and-fields/
+
+django models
+3. https://www.geeksforgeeks.org/django-models/
+
+django model data types and fields list
+1. https://www.geeksforgeeks.org/django-model-data-types-and-fields-list/
+10. https://www.geeksforgeeks.org/django-form-data-types-and-fields/
+
+django templates
+6. https://www.geeksforgeeks.org/django-templates/
+
+views in django python
+1. https://media.geeksforgeeks.org/wp-content/uploads/20200124153519/django-views.jpg?sa=X&ved=2ahUKEwiiuODh8vuEAxXgzjgGHZ57AlAQ_B16BAgKEAI
+2. https://www.geeksforgeeks.org/views-in-django-python/
+
+web scraping python
+1. https://www.geeksforgeeks.org/python-web-scraping-tutorial/
+
+r tutorial
+11. https://www.geeksforgeeks.org/r-tutorial/
+
+linux commands
+8. https://www.geeksforgeeks.org/basic-linux-commands/
+12. https://www.geeksforgeeks.org/linux-commands/
+
+linux tutorial
+1. https://www.geeksforgeeks.org/linux-tutorial/
+2. https://www.geeksforgeeks.org/introduction-to-linux-operating-system/
+3. https://www.geeksforgeeks.org/linux-commands/
+4. https://www.geeksforgeeks.org/linux-firewall/
+5. https://www.geeksforgeeks.org/the-linux-kernel/
+
+r interview questions
+8. https://www.geeksforgeeks.org/r-interview-questions/
+
+linux commands
+8. https://www.geeksforgeeks.org/basic-linux-commands/
+12. https://www.geeksforgeeks.org/linux-commands/
+
+introduction linux shell shell scripting
+3. https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/
+
+linux commands cheat sheet
+1. https://www.geeksforgeeks.org/linux-commands-cheat-sheet/
+
+linux networking tools
+1. https://www.geeksforgeeks.org/linux-networking-tools/
+14. https://www.geeksforgeeks.org/command-line-tools-and-utilities-for-network-management-in-linux/
+
+linux interview questions
+1. https://www.geeksforgeeks.org/linux-interview-questions/
+
+machine learning with r
+1. https://www.geeksforgeeks.org/introduction-to-machine-learning-in-r/
+10. https://www.geeksforgeeks.org/machine-learning-with-r/
+
