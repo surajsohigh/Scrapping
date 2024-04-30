@@ -9,7 +9,7 @@ keyword = [
 ]
 
 
-# from googlesearch import search
+## from googlesearch import search
 
 # def search_and_save(keyword_list, output_file):
 #     with open(output_file, 'w') as file:
